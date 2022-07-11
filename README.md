@@ -17,7 +17,7 @@ ilk repo içerisinde bir adet README dosyası, bir adet de index.html dosyası b
 <p>Projeyi cloneladıktan sonra Visual Studio Code programında açınız.
 
 Linux için:</p>
-<code>cd kodluyoruzilkrepo <br/> code .</code>
+<code>cd kodluyoruzilkrepo </br> code .</code>
 
 <h3>Contributing</h3>
 </hr>
