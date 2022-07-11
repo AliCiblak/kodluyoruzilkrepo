@@ -3,7 +3,7 @@
 <hr></hr>
 <p>Bu repo <a href="https://www.kodluyoruz.org/">kodluyoruz</a> Front-End Eğitiminde oluşturduğumuz 
 ilk repo içerisinde bir adet README dosyası, bir adet de index.html dosyası barındırıyor.</p>
-<img src="markdown.png" alt="Markdown" width="30" height="30">
+<img src="markdown.png" alt="Markdown" width="100" height="100">
 
 <h3>İnstallation</h3>
 </hr>
